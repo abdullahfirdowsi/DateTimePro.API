@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DateTimePro.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e16a378dfbbec6e0eaed07adb43ae309c1171d04")]
 [assembly: System.Reflection.AssemblyProductAttribute("DateTimePro.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DateTimePro.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
