@@ -31,3 +31,4 @@ C:\Data\Works\DEX\Full-Stack\DateTimePro.API\obj\Debug\net9.0\refint\DateTimePro
 C:\Data\Works\DEX\Full-Stack\DateTimePro.API\obj\Debug\net9.0\DateTimePro.API.pdb
 C:\Data\Works\DEX\Full-Stack\DateTimePro.API\obj\Debug\net9.0\DateTimePro.API.genruntimeconfig.cache
 C:\Data\Works\DEX\Full-Stack\DateTimePro.API\obj\Debug\net9.0\ref\DateTimePro.API.dll
+C:\Data\Works\DEX\Full-Stack\DateTimePro.API\obj\Debug\net9.0\DateTimePro.API.sourcelink.json
